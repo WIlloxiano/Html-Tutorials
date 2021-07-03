@@ -1,0 +1,8 @@
+This tutorial teaches us how to add alerts.
+First things first link your html file to your console file ( for this tutorial it isconsole.js)
+
+Then in your console file type:
+alert('Your alert here')
+
+Then when you run your html file it should have a pop-up dialog-box on the top of your screen saying
+whatever is in the quotation marks of your code.
