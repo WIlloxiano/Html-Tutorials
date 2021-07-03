@@ -1,0 +1,10 @@
+So for this tutorial we use the "a" attribute.
+we type "a" then press "TAB", then we should get:
+<a href=""></a>
+
+In that line of code "href" is a hyperlink reference.
+So in the quotation marks we put a link to a site, OR a link to a file on our computer.
+We do it like this:
+<a href="https://github.com/Willoxiano">My GitHub Profile</a>
+In between "><" we type what our button should say.
+Thats the end of this tutorial.
