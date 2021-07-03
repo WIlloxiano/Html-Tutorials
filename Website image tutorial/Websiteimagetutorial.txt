@@ -1,0 +1,13 @@
+In This tutorial we learn how to add images to our html file.
+
+You may not like how the image came out in this file. 
+In later tutorials we will learn how to customize how this image looks with code.
+
+(In the your own html file)
+Type
+"img" then press tab
+and you should get this line of code:
+"<img src="" alt="">"
+"src" means the link or path to the image.
+"alt" is the text shown if the image does not load, or image viewing is 
+disabled on the site.
