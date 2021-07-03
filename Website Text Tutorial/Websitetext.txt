@@ -1,0 +1,12 @@
+For website text you use:
+<p>Put text here</p>
+    and
+<h1>Put text here</h1>
+
+The attribute "h1" will giver larger sized text.
+The attribute "p" is used for paragraphs or just for smaller font text.
+
+TO add text you can acutally just type whatever you want in the html file in the body section
+I reccomend not doing that it can mess up your file.
+
+Remember to run the html file in your browser for this to work.
