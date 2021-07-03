@@ -1,0 +1,11 @@
+This file is a tutorial for the "Website Icon.html" file.
+
+In the 'head' section if you look at the seventh line you will see:
+"<link rel="shortcut icon" type="image/png" size="16x16" href="images/background-example.png">"
+
+
+All that line of html code is doing is giving the website the file location for the image you would like to be
+your website logo.
+
+(Tip: Download Visual Studio Code and install Live server, restart Vscode and then 
+right click on any html file and you can run it live in your browser)
