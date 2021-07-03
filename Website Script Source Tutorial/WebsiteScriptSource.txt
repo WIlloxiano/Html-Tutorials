@@ -1,0 +1,11 @@
+In This Tutorial we learnt how to add a script coure.
+in between:
+</body>
+and
+</html>
+
+you would type
+<script></script>
+
+In the first attribute "<script>" (Without the "/")
+you would type: src="Console-example.js"
