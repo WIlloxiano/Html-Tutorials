@@ -1,0 +1,25 @@
+Based on the web css is:
+CSS
+Programming language
+Cascading Style Sheets is a style sheet language used for describing the 
+presentation of a document written in a markup language such as HTML.
+ CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript
+
+ I just used css to customize my button (will cover that in a later tutorial)
+ I also used it to change the color and font of my text.
+
+ For css you must always use 
+ <link rel="slysheet" type="text/css" href="your-css-file.css">
+ to link your file.
+
+ And to edit your text,image or any form of data on your site,
+ on the css file you put the class of the data your putting on your site.
+ with a dot (period) before it and then at the end curly brackets.
+ in those curly brackets you type up some css code.
+
+        Example:
+            .MyClassName {
+                color: red;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+That is how it is set out.
