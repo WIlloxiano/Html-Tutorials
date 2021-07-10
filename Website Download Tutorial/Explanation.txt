@@ -1,0 +1,19 @@
+In this tutorial We learnt how to add download buttons or softwares, and images.
+The same method can be applied to other file types.
+
+The languages used in this tutorial are:
+  Css (.css)
+  Html (.Html)
+
+You might be asking whats the java (.js) file for then?
+Well thats just the console.
+That was covered in a past tutorial
+
+So I used the "a" attribute. (type a then press tab in an html file.)
+Then in the quotation marks of href (Hyperlink reference) i typed the location of the file I want to be downloaded.
+Then add some text between:
+<a href=Your file location>Type some text here</a>
+Then you can give the button a class and put some css on it.
+Then AFTER the href quotation marks type:
+download=""
+Then what you type in the quotation marks should contain the name of your file and the file type (File extension)
