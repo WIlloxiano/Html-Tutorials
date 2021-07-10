@@ -5,4 +5,4 @@ These tutorials are provided in different branches, to download tutorials switch
 # Tutorial Updates
 Updates to these tutorials can be made at anytime.
 # Current Version
-1.0.7
+1.0.8
